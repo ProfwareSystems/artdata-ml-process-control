@@ -5,3 +5,13 @@
 https://www.profsys.com.au/post/machine-learning-for-process-control-part-1-ambient-temperature-prediction
 
 Refer to */temp_pred* subfolders and *temp_pred_training.py*
+
+# Machine Learning for Process Control. Part 2: NGL Extraction Unit Optimisation with Surrogate Models.
+https://www.profsys.com.au/post/machine-learning-for-process-control-part-2-ngl-process-unit-optimisation-with-surrogate-models
+
+Refer to */ngl_opt* */ngl_dwsim* subfolders and *ngl_extraction_train.py* *ngl_extraction_opt.py*
+
+# Machine Learning for Process Control. Part 3: Neural Networks Robustness Verification.
+https://www.profsys.com.au/post/machine-learning-for-process-control-part-3-neural-networks-robustness-verification
+
+Refer to *ngl_stability.py* and *ngl_stability_polynomial_example.py*
